@@ -1,0 +1,77 @@
+
+
+body{
+    height: auto;
+}
+.green {
+    background-color: #239F62;
+    padding: 1%;
+}
+
+main h1{
+    text-align: center;
+    color: #900C22 ;
+    font-weight: 800;
+    font-size: 4vw;
+}
+
+main p {
+    text-align: center;
+    color: white;
+    font-size: 1.8vw;
+}
+
+em {
+    font-weight: 800;
+    color: black;
+    font-size: 3vw;
+}
+
+.black {
+    background-color: black;
+}
+
+h2 {
+    font-size: 2vw;
+}
+
+.portailSection {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.portals {
+    width: 20vw;
+}
+
+.bluePortal {
+    color: #208D90;
+    text-align: center;
+}
+
+.redPortal {
+    color: #900C22;
+    text-align: center;
+}
+
+.greenPortal {
+    color: #239F62;
+    text-align: center;
+}
+
+.greenOne {
+    margin-bottom: 6vh;
+}
+
+.chest {
+    color: #E3A123;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.coffre {
+    width: 20vw;
+}

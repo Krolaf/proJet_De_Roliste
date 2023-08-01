@@ -1,0 +1,113 @@
+body {
+    background-color: #208D90;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+h1 {
+    padding-top: 1vw;
+    text-align: center;
+    color: #900C22 ;
+    font-weight: 800;
+    font-size: 4vw;
+}
+
+.intro p {
+    text-align: center;
+    color: white;
+    font-size: 1.8vw; 
+    width: 95vw;
+}
+
+.insertImg {
+    background-image: url(../images/paysage\ JDR.jpg);
+    background-size: cover;
+    width:100%;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    text-align: right;
+    justify-content: right;
+}
+
+.insertImg h2{
+    margin-right: 1vw;
+    font-size: 2.5vw;
+    color: #900C22;
+    font-weight: 800;
+}
+
+
+.insertImg p {
+    margin-right: 2vw;
+    font-size: 1vw;
+    color: white;
+    font-weight: 800;
+}
+
+.bouttonScenarium {
+    width: 16vw;
+    margin-right: 4vw;
+    padding-bottom: 12vh;
+}
+
+.univerInfini {
+    display: flex;
+    justify-content: space-around;
+}
+.univerInfini h2 {
+    font-size: 2vw;
+    color: #900C22;
+    font-weight: 800;
+}
+    
+
+.dessusDessous{
+    text-align: justify;
+    width: 20vw;
+    margin: 2vw;
+    font-size: 1.4vw
+}
+
+.ballon {
+    width: 30vw;
+    margin-top: 2vw ;
+    margin-bottom: 2vw;
+}
+
+.usine {
+    width: 20vw;
+}
+
+.MJ {
+    display: flex;
+    font-size: 1.4vw;
+    align-items: center;
+    text-align: justify;
+    margin: 2vw; 
+}
+
+.MJ h2{
+    font-size: 2vw;
+    color: #900C22;
+    font-weight: 800;
+    
+}
+
+.bouttonRegle {
+    width: 20vw;
+}
+
+.mesBouttons {
+    box-shadow: 0px 10px 13px -7px #000000, 10px 10px 14px 6px rgba(0,0,0,0.89);
+    border-radius: 100%;
+    margin-left: 2vw;
+}
+
+.book {
+    width: 100%;
+}

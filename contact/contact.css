@@ -1,0 +1,52 @@
+body {
+    background-color:#208D90;
+}
+
+.parchemin {
+    width: 55vw;
+    height: 40vw;
+
+}
+ 
+form {
+    position: absolute;
+    right: 33.5vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.pageContact {
+    display: flex;
+    justify-content: space-evenly;
+    text-align: center;
+}
+
+.petitMotDoux {
+    font-size: 0.8vw;
+}
+
+.formulaire {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+}
+
+input{
+    background-color: #E3A123;
+}
+
+.critique {
+    display: flex;
+}
+
+.dice {
+    width: 15vw;
+    height: 15vw;
+}
+
+.notation {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
